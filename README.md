@@ -1,5 +1,7 @@
-# Welcome to GitHub Desktop!
-
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+WELCOME GUYS!!!!
+My name Is ANISH INAMADAR ,Currently I Am Working As A STUDENT .
+And I Am Here To Gain More Knowledge And Expand My Horizans So That I Could Help Me In Mear Future.
+If You Are Searching For A TYPIST With Some Basic Programming Language Then Please Include Me.
+I Know Basics Of PYTHON,C,JAVA,[HTML(Very Little)].
+If You Are Having Any Interest In Me Please DM Me.
+THANK YOU,
