@@ -10,7 +10,7 @@
         <ul>
             <li><strong>Python</strong></li>
             <li><strong>C</strong></li>
-            <li><strong>Java</strong></li>
+            <li><strong>Java</strong> (Very Little)</li>
             <li><strong>HTML</strong> (Very Little)</li>
         </ul>
         <p class="contact">If you are having any interest in me, please DM me.</p>
